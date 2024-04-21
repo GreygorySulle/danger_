@@ -1,0 +1,23 @@
+JAVASCRIPT BUILT IN OBJECTS
+1.CONSOLE
+2.MATH
+3.JSON
+4.localStorage
+
+
+JSON FEATURES
+IT'S the same as javascript objects with a little different syntax
+i)it uses double quotation in both property and value of object
+ii)It doesn't support functions
+iii)It can be understood by almost all programming languages
+
+what does it do
+i)It is used to store javascript objects using it's built in method JSON.Stringfy(objrct name) as string
+ii)JSON.parse(JSON string) result to an object
+
+
+localStorage
+it is used to store values permanently rather than on variables which disappear when we refresh the page
+nb:It only use Strings
+i)localStorage.setItem('name', 'value') is a built in method which store data on localStorage
+ii)localStorage.getItem('name') it get's value out of the localtorage
